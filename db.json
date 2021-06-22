@@ -3,6 +3,7 @@
       {
         "id": 1,
         "maskedCardNumber": "xxxxxxxxxxxx4444",
+        "tokenizedCardNumber": "123412341234444",
         "name": "Matt Smith",
         "CVV": 123,
         "expires": "0122"
